@@ -1,0 +1,20 @@
+{
+  "name": "addTemplateHelpers",
+  "version": "1.0.0",
+  "description": "Mixin to add custom template helpers to underscore.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test.js",
+    "build": "browserify ./example/index.js > ./example/bundle.js"
+  },
+  "author": "@dam",
+  "license": "BSD",
+  "devDependencies": {
+    "browserify": "^7.0.0",
+    "chai": "^1.10.0",
+    "mocha": "^2.0.1"
+  },
+  "dependencies": {
+    "underscore": "^1.7.0"
+  }
+}
