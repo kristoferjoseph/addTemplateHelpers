@@ -1,5 +1,5 @@
 {
-  "name": "addTemplateHelpers",
+  "name": "addtemplatehelpers",
   "version": "1.0.0",
   "description": "Mixin to add custom template helpers to underscore.",
   "main": "index.js",
