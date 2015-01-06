@@ -6,7 +6,7 @@ Mixin to add custom template helpers to underscore.
 Install
 -------
 
-`npm i addTemplateHelpers`
+`npm i addtemplatehelpers`
 
 Usage
 -----
